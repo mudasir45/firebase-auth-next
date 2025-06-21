@@ -246,7 +246,7 @@ It helps others discover this project and motivates me to keep improving it.
 
 ### 🤝 Connect With Me
 
-- 💼 **Found a bug or have a feature request?** [Open an issue](https://github.com/yourusername/firebase-auth-next/issues)
+- 💼 **Found a bug or have a feature request?** [Open an issue](https://github.com/mudasir45/firebase-auth-next/issues)
 - 💡 **Have questions or want to collaborate?** Feel free to reach out!
 - 🌟 **Enjoying this project?** Give it a star and share it with others
 - 🐛 **Found this helpful?** Consider following for more awesome projects
